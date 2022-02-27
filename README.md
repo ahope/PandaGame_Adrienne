@@ -79,4 +79,6 @@ There are a few concrete steps we'll take to build this game:
 
 * [Milestone 1](docs/milestone1.md): Getting the game loop going 
 * [Milestone 2](docs/milestone2.md): Moving the Panda
+* [Milestone 3](coming...): Controlling the Panda with the keyboard
+* [Milestone 4](coming...): Adding game logic: What happens when Panda hits an obstacle? 
 
